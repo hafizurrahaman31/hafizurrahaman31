@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hafizur
+# 👋 Hi, I'm Hafizur Rahaman
 
 I'm a Computer Science graduate passionate about building reliable, data-driven applications. I enjoy solving real-world problems through clean code, structured logic, and practical analytics.
 
