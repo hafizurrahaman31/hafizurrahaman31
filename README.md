@@ -2,12 +2,12 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech / Engineering Student
-* 💻 Passionate about Full Stack Development, Python, and Cloud
-* 🌱 Currently learning React, Django, AWS, and DSA
-* 🤖 Interested in AI, Data Science, and Machine Learning
-* 🔥 Building projects to improve problem-solving and development skills
-* 🎯 Goal: Become a skilled Software Engineer
+* 🎓 B.Tech Graduate in Computer Science Engineering
+* 💻 Passionate about Full Stack Development and Problem Solving
+* 🌱 Skilled in React.js, Next.js, Python, SQL, MongoDB, and AWS Basics
+* 🤖 Interested in AI-powered applications and modern web technologies
+* 🔥 Built multiple full stack and AI-based projects
+* 🎯 Goal: Become a skilled Software Engineer and build impactful applications
 
 ---
 
@@ -17,58 +17,103 @@
 
 * Python
 * JavaScript
-* C++
 * SQL
 * HTML5
 * CSS3
 
 ### Frameworks & Libraries
 
-* React
+* React.js
+* Next.js
 * Node.js
 * Express.js
-* Django
+* FastAPI
 * Tailwind CSS
 
 ### Databases
 
-* MySQL
 * MongoDB
-* PostgreSQL
+* MySQL
+
+### AI & Cloud
+
+* TensorFlow
+* AWS Basics
+* Cloudinary
 
 ### Tools & Platforms
 
 * Git & GitHub
-* AWS
-* VS Code
 * Postman
-* Linux
-* Docker
+* Render
+* Vercel
+* VS Code
 
 ---
 
 ## 📌 Current Focus
 
-* Solving DSA problems daily
-* Building Full Stack Projects
-* Learning System Design & Backend Development
-* Preparing for placements and future tech opportunities
+* Solving DSA problems regularly
+* Building scalable Full Stack Applications
+* Learning Backend Development and Cloud Technologies
+* Exploring AI integration in modern web applications
+* Preparing for software engineering opportunities
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 AI Mock Interview Platform
+### 🔹 Wanderlust – Airbnb Clone
 
-A platform for practicing DSA, AI-based mock interviews, coding contests, and job preparation.
+Full-stack Airbnb-inspired web application built using Node.js, Express.js, MongoDB, EJS, and Cloudinary.
 
-### 🔹 Full Stack Delivery App
+* Developed RESTful APIs for property listings and reviews
+* Implemented authentication and authorization
+* Deployed application using Render
 
-Built using React, Node.js, Express, MongoDB, and APIs.
+---
 
-### 🔹 Cloud & AWS Practice
+### 🔹 Raithu Mitra AI – Smart Farming Assistant
 
-Working with EC2, S3, IAM Roles, and Python Boto3 integrations.
+AI-powered farming assistant built using Next.js, FastAPI, TensorFlow, and Tailwind CSS.
+
+* Plant disease detection using image classification
+* Weather integration and SOS emergency feature
+* Responsive mobile-first UI design
+
+---
+
+### 🔹 Chatbot Web App
+
+Interactive chatbot application built using React.js and JavaScript.
+
+* Implemented rule-based conversational flow
+* Managed dynamic UI updates using React Hooks
+* Improved user interaction experience
+
+---
+
+## 💼 Experience
+
+### Intern – Data Structures and Algorithms
+**Slash Mark IT Solutions Pvt Ltd**
+
+* Worked on problem-solving using DSA concepts
+* Improved coding efficiency and logical thinking skills
+
+---
+
+## 🏆 Achievements
+
+* Solved 150+ coding problems on GeeksforGeeks and LeetCode
+* Won 1st Prize in Project Expo 2K25
+
+---
+
+## 📜 Certifications
+
+* AWS Cloud Practitioner
+* freeCodeCamp Web Development Certification
 
 ---
 
@@ -76,33 +121,4 @@ Working with EC2, S3, IAM Roles, and Python Boto3 integrations.
 
 ```txt
 ⭐ Consistency > Motivation
-```
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafizurrahaman31\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizurrahaman31\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hafizurrahaman31\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-* Email: [shaikhafizurrahaman31@example.com](mailto:shaikhafizurrahaman31@example.com)
-
----
-
-## ✨ Fun Quote
-
-> “Code. Learn. Build. Repeat.”
-
----
-
-## 💡 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=hafizurrahaman31\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
